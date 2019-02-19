@@ -1,6 +1,8 @@
 import pandas as pd
 from urllib.request import urlretrieve
 
+# 数据处理
+
 '''
 covert data to onehot representation
 '''
